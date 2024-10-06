@@ -1,0 +1,15 @@
+.apod_section{
+width: 100vw;
+height: 100vh;
+background-color: red;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    
+    background: green;
+    object-fit: cover;
+    overflow: hidden;
+}
